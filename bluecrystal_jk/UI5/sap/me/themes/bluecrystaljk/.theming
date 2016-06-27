@@ -1,0 +1,9 @@
+{
+	"sEntity": "Theme",
+	"sId": "bluecrystaljk",
+	"sLabel": "Blue Crystal JK",
+	"oExtends": "UI5.sap/me.sap_bluecrystal",
+	"sTextDirections": "LTR",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC"
+}

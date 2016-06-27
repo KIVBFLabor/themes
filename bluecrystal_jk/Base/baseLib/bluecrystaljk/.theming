@@ -1,0 +1,15 @@
+{
+	"sEntity": "Theme",
+	"sId": "bluecrystaljk",
+	"sLabel": "Blue Crystal JK",
+	"oExtends": "Base.baseLib.sap_bluecrystal",
+	"aFiles": [
+		"base",
+		"preview",
+		"custom"
+	],
+	"sTextDirections": "LTR",
+	"sFallbackThemeId": "sap_goldreflection",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC"
+}
