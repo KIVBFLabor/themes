@@ -1,0 +1,56 @@
+/**
+* Copyright (c) 2013 SAP AG, All Rights Reserved
+*
+* Theming Engine 1.16.11
+* data:{"Path": "Base.baseLib.bluecrystaljk.preview", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "IECssRuleLimitFiles": [], "Extends": ["sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_1"], "Version": { "Build":"10.30.4.247717.20160627195014", "Source": "10.30.4.247717.0", "Engine": "1.16.11"}}
+*/
+
+.sapThemeMetaData-Base-baseLib{background-image: url('data:text/plain;utf-8,{"Path": "Base.baseLib.bluecrystaljk.preview", "PathPattern": "/%frameworkId%/%libId%/%themeId%/%fileId%.css", "IECssRuleLimitFiles": [], "Extends": ["sap_bluecrystal","sap_goldreflection","baseTheme"], "Tags": ["Fiori_1"], "Version": { "Build":"10.30.4.247717.20160627195014", "Source": "10.30.4.247717.0", "Engine": "1.16.11"}}');}
+
+/**
+* Base.baseLib.baseTheme.base (Version 10.30.4.247717.0)
+*/
+
+.sapSvgLibs {
+  background-image: none, none, none;
+}
+
+/**
+* Base.baseLib.baseTheme.preview (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.sap_goldreflection.base (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.sap_goldreflection.preview (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.sap_bluecrystal.base (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.sap_bluecrystal.preview (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.bluecrystaljk.custom (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.bluecrystaljk.base (Version 10.30.4.247717.0)
+*/
+
+
+/**
+* Base.baseLib.bluecrystaljk.preview (Version 10.30.4.247717.0)
+*/
+
